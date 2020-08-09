@@ -1,4 +1,4 @@
-# currency-converter
+# Currency Converter
 💵💶currency converter is simple ios app to represent several current currency rate in the world. 
 
 # Data
@@ -186,4 +186,3 @@
 
 ![alt_text](ss-1.png)
 
-* **Faridho** - [Medium](https://medium.com/@faridho)
