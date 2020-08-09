@@ -182,7 +182,7 @@
 }
 ```
 
-# Screnshoot
+# Screenshot
 
 ![alt_text](ss-1.png)
 
